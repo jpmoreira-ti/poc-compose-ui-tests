@@ -12,7 +12,7 @@ This is an Android application built with Jetpack Compose. It provides a simple 
 
 ## Getting Started
 
-1.  Clone the repository: `git clone https://github.com/your-username/your-repository.git`
+1.  Clone the repository: `git clone https://github.com/jpmoreira-ti/template-compose-ui-tests`
 2.  Open the project in Android Studio.
 3.  Build and run the application on an emulator or device.
 
